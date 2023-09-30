@@ -5,7 +5,8 @@
 </header>
 
 <section>
-
+## Screenshot 
+<img width="1158" alt="nike" src="https://github.com/nikhilkcodes/basic-nike-webpage-using-react/assets/86142267/2d5a788a-ec23-4378-a8fe-bd25daf9856b">
 ## Getting Started
 
 1.  **Clone the repository:**
@@ -86,5 +87,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 *   This project was created to demonstrate React fundamentals using Vite.
 *   Special thanks to the React and Vite communities for their contributions and support.
+
+
 
 </section>
